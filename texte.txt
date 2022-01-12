@@ -1,0 +1,6 @@
+Bonjour Nous allons essayer de faire les choses proprement.
+1/ Il s'agit de faire la modification et le commit. On va voir si
+la modif avec le commit peut être corrigée.
+
+2/J'avais fait des modif sur la branche test1, enusite j'ai fais un commit
+et je bascule sur la branche master
