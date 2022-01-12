@@ -1,1 +1,3 @@
 Bonjour Nous allons essayer de faire les choses proprement.
+1/ Il s'agit de faire la modification et le commit. On va voir si
+la modif avec le commit peut être corrigée.
